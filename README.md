@@ -1,7 +1,7 @@
 # Uber-Revenue-Analysis
 
 ## Project Overview
-This project explores a dataset of 2,000 Uber users to identify why the top 25 highest-earning drivers are exclusively concentrated in Houston and Los Angeles. 
+This project explores a dataset of 2,000 Uber users to identify why the top 30 highest-earning drivers are exclusively concentrated in Houston and Los Angeles. 
 
 ## Key Insights
 - **Market Dominance:** Houston and Los Angeles lead in both total revenue and rider population.
