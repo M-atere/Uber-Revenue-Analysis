@@ -1,5 +1,5 @@
 /* 
-1. TOP 25 EARNING DRIVERS
+1. TOP 30 EARNING DRIVERS
 Goal: Identify the highest-grossing drivers across all cities.
 */
 SELECT 
@@ -15,7 +15,7 @@ JOIN trips t ON d.driver_id = t.driver_id
 WHERE t.status = 'completed'
 GROUP BY 1, 2, 3, 4
 ORDER BY total_revenue DESC
-LIMIT 25;
+LIMIT 30;
 
 /* 
 2. REVENUE & TRIP VOLUME BY CITY
