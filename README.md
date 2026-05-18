@@ -24,7 +24,7 @@ Initially, trip volume seemed like the answer, but the data disproved this: **Ne
 
 Looking at **Total Distance Covered** solved the puzzle:
 *   **Geographic Advantage:** Houston and Los Angeles are massive, sprawling metropolitan areas. 
-*   **Distance = Revenue:** Total distance covered was directly proportional to total revenue. Houston topped both metrics, followed by Los Angeles. Chicago ranked last in both total distance and revenue.
+*   **Distance and Revenue Correlation:** Total distance positively correlated with total revenue. Houston topped both metrics, followed by Los Angeles. Chicago ranked last in both total distance and revenue.
 *   **The Proportionality:** Long-distance trips in sprawling cities yield higher fares per ride compared to short, congested trips in hyper-saturated environments like New York.
 
 ---
