@@ -1,2 +1,2 @@
 ## 📊 Database Architecture (ERD)
-![Uber Relational Schema](/uber_database_erd.png)
+![Uber Relational Schema](visualizations/uber_database_erd.png)
