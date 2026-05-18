@@ -5,6 +5,9 @@ This project investigates a specific revenue anomaly within a multi-city Uber da
 
 By analyzing market saturation (rider-to-driver ratios) and spatial factors (trip distances and geographic city size), this analysis uncovers the operational mechanics that allow drivers in specific regions to significantly out-earn their peers.
 
+## 📊 Database Architecture (ERD)
+![Uber Relational Schema](visualizations/erd.png)
+
 ---
 
 ## 🔍 The Investigation: Breaking Down the "Why"
