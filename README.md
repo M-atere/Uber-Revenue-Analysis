@@ -39,3 +39,8 @@ The top 30 drivers are concentrated in Houston and Los Angeles due to a dual adv
 ## 🛠️ Tech Stack & Skills Shown
 - **SQL Metrics:** Aggregations, multi-table `JOIN` operations, filtering, and data profiling.
 - **Economic Principles Applied:** Supply & Demand Elasticity, Market Saturation, Spatial/Urban Economics.
+
+---
+
+## 5. Data Provenance
+*   **Data Source:** Sourced from [Kaggle](https://www.kaggle.com/datasets/rockyt07/uber-sql-database?select=schema.sql)
